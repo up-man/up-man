@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Andrey
+### Hi there 👋, my name is Andrey. I'm a Frontend Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
